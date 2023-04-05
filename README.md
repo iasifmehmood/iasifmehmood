@@ -35,7 +35,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/iasifmehmood/"><img alt="LinkedIn" src="https://img.shields.io/badge/Asif-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:asif-mehmood@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-asif-mehmood@hotmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:asif-mehmood@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-asif--mehmood%40hotmail.com-brightgreen"></a>
 </p>
 
 <!--    -->
